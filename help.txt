@@ -1,0 +1,5 @@
+There is a test class set up in src/test/java with some failing tests
+
+To make the tests pass you may use available annotations or make your own and annotate the fields in src/main/java/javAnnotations/Person
+
+An example of creating your own annotation & validator is in the javAnnotations/example package

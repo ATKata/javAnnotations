@@ -82,7 +82,7 @@ public class PersonValidatorTest {
 	}
 
 	@Test
-	public void faveouriteCarShouldFailValidationIfBMW() {
+	public void favouriteCarShouldFailValidationIfBMW() {
 		// Given
 		person.favouriteCar = CarMake.BMW;
 
@@ -94,7 +94,7 @@ public class PersonValidatorTest {
 	}
 
 	@Test
-	public void faveouriteCarShouldPassValidationIfFord() {
+	public void favouriteCarShouldPassValidationIfFord() {
 		// Given
 		person.favouriteCar = CarMake.FORD;
 
